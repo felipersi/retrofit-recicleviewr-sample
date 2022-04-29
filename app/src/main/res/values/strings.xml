@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Consulta API JSON</string>
+
+    <string name="try_again_text_btn">Tente Restart</string>
+    <string name="internal_error">Erro Interno</string>
+    <string name="label_no_internet">Falha da conexão</string>
+    <string name="error_text_label">Ops, something happened</string>
+
+</resources>
